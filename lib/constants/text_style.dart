@@ -6,6 +6,7 @@ myTextStyle(
     {family = 'Roboto',
     double? size = 18,
     color = whiteColor,
-    double? weight = 700}) {
-  return TextStyle(fontSize: size, color: color, fontFamily: family);
+    weight = FontWeight.w500}) {
+  return TextStyle(
+      fontSize: size, color: color, fontFamily: family, fontWeight: weight);
 }
