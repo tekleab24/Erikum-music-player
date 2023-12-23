@@ -1,6 +1,6 @@
 import 'package:erikum_music_player/constants/colors.dart';
 import 'package:erikum_music_player/constants/text_style.dart';
-import 'package:erikum_music_player/pages/hhoommee.dart';
+import 'package:erikum_music_player/pages/album_page.dart';
 import 'package:erikum_music_player/pages/home.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
